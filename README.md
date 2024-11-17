@@ -1,1 +1,1 @@
-# Syst-me-de-Reconnaissance-des-chiffres-manuscrits
+# Systeme-de-Reconnaissance-des-chiffres-manuscrits
