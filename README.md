@@ -2,6 +2,7 @@
 
 This project demonstrates a complete pipeline for handwritten digit recognition using a Convolutional Neural Network (CNN) trained on the MNIST dataset. The system includes an interactive graphical user interface (GUI) where users can draw a digit, and the model predicts the drawn digit in real-time.
 
+![Alt text](Images/Image1.png)
 ---
 
 ## Features
