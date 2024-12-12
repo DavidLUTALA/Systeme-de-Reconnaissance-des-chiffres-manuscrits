@@ -39,8 +39,10 @@ pip install tensorflow numpy matplotlib pillow
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/mnist-digit-recognizer.git
-    cd mnist-digit-recognizer
+    git clone https://github.com/DavidLUTALA/Systeme-de-Reconnaissance-des-chiffres-manuscrits.git
+    ```
+    ```bash
+    cd Systeme-de-Reconnaissance-des-chiffres-manuscrits.git
     ```
 
 2. Train the model (if not already trained):
