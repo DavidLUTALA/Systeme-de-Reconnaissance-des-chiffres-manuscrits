@@ -98,8 +98,8 @@ The CNN model used in this project has the following layers:
 
 ## Results
 
-- **Training Accuracy**: ~75%
-- **Test Accuracy**: ~74%
+- **Training Accuracy**: ~85%
+- **Test Accuracy**: ~84%
 - **Interactive Prediction**: Real-time digit recognition with consistent accuracy.
 
 ---
