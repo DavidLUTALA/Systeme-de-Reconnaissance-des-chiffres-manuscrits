@@ -13,7 +13,7 @@ This project demonstrates a complete pipeline for handwritten digit recognition 
 - **Model Accuracy**: Achieved high accuracy on the test dataset due to data augmentation and hyperparameter optimization.
 - **Data Augmentation**: Includes transformations like rotation, zoom, and shifting to improve model generalization.
 
-![Alt text](Images/Image2.png)
+![Alt text](Images/Image3.png)
 ---
 
 ## Prerequisites
@@ -140,7 +140,7 @@ For any inquiries or suggestions, please contact [davidlutala0@gmail.com].
 
 
 
-![Alt text](Images/Image3.png)
+![Alt text](Images/Image2.png)
 ![Alt text](Images/Image4.png)
 ![Alt text](Images/Image5.png)
 ![Alt text](Images/Image6.png)
